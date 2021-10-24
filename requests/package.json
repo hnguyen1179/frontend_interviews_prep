@@ -1,0 +1,27 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnguyen1179/frontend_interviews_prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnguyen1179/frontend_interviews_prep/issues"
+  },
+  "homepage": "https://github.com/hnguyen1179/frontend_interviews_prep#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2"
+  },
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
